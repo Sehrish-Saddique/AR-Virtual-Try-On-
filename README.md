@@ -14,7 +14,6 @@ The Virtual Try-On System is designed to improve the shopping experience by enab
 - `FYP Proposal`: Project objectives, background, and scope.
 - `FYP Design Document`: System architecture, diagrams, and detailed design planning.
 - `FYP Test Document`: Test cases, testing strategy, and results.
-- `FYP Thesis Report`: Comprehensive report including methodology, implementation, and findings.
 
 ### 🎥 Demo 
 - `FYP Poster`: Visual summary of the system features and architecture.
