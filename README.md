@@ -4,23 +4,23 @@ This repository contains the complete documentation and supporting materials for
 
 ## 📄 Project Overview
 
-The Virtual Try-On System is designed to improve the online shopping experience by enabling real-time body measurement tracking and interactive clothing visualization. It uses Kinect sensor input to detect body posture and gestures, integrated with Unity 3D and C# for the AR interface.
+The Virtual Try-On System is designed to improve the shopping experience by enabling real-time body measurement tracking and interactive clothing visualization. It uses Kinect sensor input to detect body posture and gestures, integrated with Unity 3D and C# for the AR interface.
 
 ---
 
 ## 📁 Repository Contents
 
 ### 📘 Documentation
-- `FYP Proposal (ProjectTitle)`: Project objectives, background, and scope.
-- `FYP Design Document (Design ProjectTitle)`: System architecture, diagrams, and detailed design planning.
-- `FYP Test Document (Test ProjectTitle)`: Test cases, testing strategy, and results.
-- `FYP Thesis Report (Report ProjectTitle)`: Comprehensive report including methodology, implementation, and findings.
-- `FYP Plagiarism Report (PlagReport ProjectTitle)`: Plagiarism check and originality validation.
+- `FYP Proposal`: Project objectives, background, and scope.
+- `FYP Design Document`: System architecture, diagrams, and detailed design planning.
+- `FYP Test Document`: Test cases, testing strategy, and results.
+- `FYP Thesis Report`: Comprehensive report including methodology, implementation, and findings.
+- `FYP Plagiarism Report`: Plagiarism check and originality validation.
 
 ### 🎥 Demo & Media
-- `FYP Working Demo Video (Demo ProjectTitle)`: A functional demonstration of the Virtual Try-On system in action.
-- `FYP PowerPoint Presentation (ProjectTitle)`: Project summary slides used for final evaluation.
-- `FYP Poster (Poster ProjectTitle)`: Visual summary of the system features and architecture.
+- `FYP Working Demo Video`: A functional demonstration of the Virtual Try-On system in action.
+- `FYP PowerPoint Presentation`: Project summary slides used for final evaluation.
+- `FYP Poster`: Visual summary of the system features and architecture.
 
 ---
 
@@ -35,8 +35,9 @@ The Virtual Try-On System is designed to improve the online shopping experience 
 
 ## 🤝 Contributors
 
-- Sehrish Saddique  
-- [Other Team Member Names if any]
+- @sehrish-saddique  
+- @laiba756
+- @kausar-fatima
 
 ---
 
